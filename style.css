@@ -11,6 +11,8 @@
   transition: all 0.2s linear;
 }
 
+/* start style */
+
 html {
   font-size: 62.5%;
   scroll-behavior: smooth;
